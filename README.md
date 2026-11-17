@@ -1,6 +1,6 @@
 # stgzbot
 
-stgzbot is a Windows desktop chat bot for Last Z. It reads the visible game chat using OCR and interacts with chat through mouse and keyboard input. It can host multiple-choice trivia, answer a few fixed commands, and have short AI-assisted conversations.
+stgzbot is a Windows desktop chat bot primarily made for Last Z Survival Shooter. It reads the visible game chat using OCR and interacts with chat through mouse and keyboard input. It can host multiple-choice trivia, answer a few fixed commands, and have short AI-assisted conversations.
 
 This project is an independent community tool and is not affiliated with or endorsed by the game publisher. Use it only where automated interaction is allowed, and follow the game's rules.
 
